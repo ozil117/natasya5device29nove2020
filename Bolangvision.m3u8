@@ -464,6 +464,14 @@ https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 
 
+#EXTM3U
+#EXTINF:-1 group-title="TV DAERAH" tvg-logo="https://i.ibb.co/T856tck/Bayu-tv.png",BAYU-TV
+https://v3.siar.us/madutv/live/playlist.m3u8
+#EXTINF:-1 group-title="TV DAERAH" tvg-logo="https://i.ibb.co/Mphj7Mm/madu-tv.png",MADU-TV
+https://v3.siar.us/madutv/live/playlist.m3u8
+#EXTINF:-1 group-title="TV DAERAH" tvg-logo="https://i.ibb.co/Vvhz8nL/benner3.png",JiTV
+http://202.169.224.76:1935/tv/jitv/playlist.m3u8
+
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
